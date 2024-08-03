@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, there! This is Mohammed Ashif.
 
-<!--
-**ashif-git/ashif-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An enthusiastic programmer! I'm interested in doing things, which keeps me active. Curiosity and inventiveness propel me forward on my adventure.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+Here's a glimpse of my tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, PHP, Perl
+- **System Scripting:** Bash, Batch
+
+
+## 📬 Get in Touch
+Feel free to reach out if you want to discuss. I'm always open to new ideas and connections!
+
+- **LinkedIn:** [Mohammed Ashif](https://www.linkedin.com/in/mohammed-ashif-b-20626621b/)
+
+---
+
+✨ _"I'm not a great programmer; I'm just a good programmer with great habits."_ - Kent Beck. ✨
+
+Thanks for visiting my GitHub profile!
